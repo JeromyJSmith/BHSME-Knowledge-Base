@@ -64,14 +64,8 @@
     },
     "MCP_DOCKER": {
       "command": "docker",
-      "args": [
-        "run",
-        "-i",
-        "--rm",
-        "alpine/socat",
-        "STDIO",
-        "TCP:host.docker.internal:8811"
-      ]
+      "args": ["mcp", "gateway", "run"],
+      "type": "stdio"
     },
     "run-llama Docs": {
       "url": "https://gitmcp.io///github.com/run-llama/llama_cloud_services"

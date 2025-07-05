@@ -1,3 +1,14 @@
+Python Packages Backup - Created on 2025-07-05
+==============================================
+
+This is a complete list of all Python packages installed in the virtual environment
+before recreating it with Python 3.12.
+
+Current Python version check needed before recreation.
+Project requires Python >=3.12 according to pyproject.toml.
+
+Complete package list (from uv pip freeze):
+-------------------------------------------
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.13
 aiosignal==1.4.0
@@ -188,4 +199,22 @@ websockets==15.0.1
 wrapt==1.17.2
 wsproto==1.2.0
 yarl==1.20.1
-mindsdb
+
+Key dependencies identified:
+---------------------------
+- llama-index and related packages (AI/ML framework)
+- supabase (database client)
+- google-api-python-client (Google APIs)
+- selenium + playwright (web automation)
+- pandas, numpy, matplotlib (data analysis)
+- openai (OpenAI API client)
+- requests, aiohttp (HTTP clients)
+- beautifulsoup4 (web scraping)
+- notion-client (Notion API)
+- gspread (Google Sheets API)
+
+Project Configuration:
+---------------------
+- pyproject.toml shows empty dependencies array
+- requirements.txt is empty
+- Python version requirement: >=3.12
