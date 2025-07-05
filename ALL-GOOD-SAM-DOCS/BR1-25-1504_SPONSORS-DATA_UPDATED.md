@@ -1,0 +1,37 @@
+# BR1-25-1504
+
+Bond/Round: Bond Round 1
+Construction Type: Ground-up new construction (e.g. a new facility or new setting being built)
+Contruction: Ground up
+Entity Name: Good Samaritan Hospital, A California Limited Partnership
+Entity Type: For-profit Corporation
+Facility Type #1: Crisis Stabilization Unit (CSU)
+Facility Type #2: Psychiatric Health Facility (PHF)
+Facility Type #3: Community Residential Treatment System (CRTS)/Social Rehabilitation Program (SRP)
+Grant Requested: $13,340,186.06
+Match Amount: $3,200,000.00
+Preferred Clients List : No
+Project City: Hanford
+Project County: Kings
+Project Name: Kings County CARE Center
+Project Region: San Joaquin Valley
+Region: San Joaquin Valley
+Sponsor: Good Samaritan Hospital
+Sponsor Name: Good Samaritan Hospital
+Text: Summary:
+
+- Project Name: Kings County CARE Center
+- Match Amount: $3,200,000.00
+- Grant Requested: $13,340,186.06
+- Facility Type:
+- Crisis Stabilization Unit (CSU)
+- Psychiatric Health Facility (PHF)
+- Community Residential Treatment System (CRTS)/Social Rehabilitation Program (SRP)
+- Construction Type: Ground-up new construction
+- Project City: Hanford
+- Project County: Kings
+- Project Region: San Joaquin Valley
+- Entity Type: For-profit Corporation
+- Sponsor: Good Samaritan Hospital
+- Preferred Clients List: No
+- Bond/Round: Bond Round 1
