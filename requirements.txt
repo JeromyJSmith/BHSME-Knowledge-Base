@@ -126,7 +126,7 @@ psycopg2-binary==2.9.10
 ptyprocess==0.7.0
 pure-eval==0.2.3
 py-readability-metrics==1.4.5
-pyasn1==0.6.1
+pyasn1==0.6.2
 pyasn1-modules==0.4.2
 pycryptodomex==3.23.0
 pydantic==2.11.7
