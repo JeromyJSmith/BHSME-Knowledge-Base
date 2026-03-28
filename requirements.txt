@@ -121,7 +121,7 @@ postgrest==1.1.1
 prompt-toolkit==3.0.51
 propcache==0.3.2
 proto-plus==1.26.1
-protobuf==6.31.1
+protobuf==6.33.5
 psycopg2-binary==2.9.10
 ptyprocess==0.7.0
 pure-eval==0.2.3
